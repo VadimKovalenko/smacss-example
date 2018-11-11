@@ -1,0 +1,15 @@
+//------------------------//
+//Container---------------//
+//------------------------//
+.main {
+    min-height: 100%;
+    overflow: hidden;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.wrap {
+    margin: 0 auto;
+    max-width: 940px;
+    padding: 0 30px;
+}

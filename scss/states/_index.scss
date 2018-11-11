@@ -1,0 +1,17 @@
+/*****************************
+All the states styles
+******************************/
+
+.error {
+    color: #FF0000 !important;
+    border-color: #FF0000 !important;
+}
+.success {
+    color: #00CC0 !important;
+    border-color: #00CC00 !important;
+}
+.disabled {
+    color: #999999 !important;
+    border-color: #999999 !important;
+    cursor: default !important;
+}
